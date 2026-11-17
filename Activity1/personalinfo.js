@@ -43,4 +43,3 @@ console.log("Program: " + program)
 console.log("\n=== Courses Enrolled ===")
 console.log(courses.course1.course + "\n" + courses.course2.course + "\n" + courses.course3.course + "\n" + courses.course4.course + "\n" + courses.course5.course + "\n" + courses.course6.course + "\n" + courses.course7.course)
 console.log("\nGWA: " + GWA + "\t\tLetter Grade: " + letterGrade)
-
