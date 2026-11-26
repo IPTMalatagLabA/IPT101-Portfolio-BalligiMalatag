@@ -1,0 +1,7 @@
+{
+  "name": "book-record-factory",
+  "version": "1.0.0",
+  "description": "Laboratory activity demonstrating JavaScript objects, functions, methods, and ES modules.",
+  "main": "libraryApp.js",
+  "type": "module"
+}
